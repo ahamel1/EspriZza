@@ -1,2 +1,2 @@
-# EspriZza
+LOCAL
 miam des pizzas miam miam
